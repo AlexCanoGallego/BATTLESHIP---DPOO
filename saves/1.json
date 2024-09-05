@@ -1,0 +1,6744 @@
+{
+  "date": "2024/09/05 19:18:57",
+  "time": "00:30",
+  "players": [
+    {
+      "recharging": true,
+      "number_attacks": 4,
+      "is_alive": true,
+      "ships": [
+        {
+          "type": 2,
+          "initial_position": [
+            4,
+            1
+          ],
+          "orientation": "horizontal"
+        },
+        {
+          "type": 3,
+          "initial_position": [
+            11,
+            4
+          ],
+          "orientation": "vertical"
+        },
+        {
+          "type": 3,
+          "initial_position": [
+            3,
+            5
+          ],
+          "orientation": "vertical"
+        },
+        {
+          "type": 4,
+          "initial_position": [
+            7,
+            12
+          ],
+          "orientation": "horizontal"
+        },
+        {
+          "type": 5,
+          "initial_position": [
+            10,
+            9
+          ],
+          "orientation": "horizontal"
+        }
+      ],
+      "board": [
+        [
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          }
+        ],
+        [
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 1,
+            "color": "#00ff00"
+          },
+          {
+            "tileType": 1,
+            "color": "#00ff00"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          }
+        ],
+        [
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          }
+        ],
+        [
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          }
+        ],
+        [
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 2,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          }
+        ],
+        [
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 2,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 2,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          }
+        ],
+        [
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 2,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 2,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          }
+        ],
+        [
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 2,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          }
+        ],
+        [
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          }
+        ],
+        [
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 2,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 1,
+            "color": "#00ff00"
+          },
+          {
+            "tileType": 2,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 2,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 2,
+            "color": "#c0c0c0"
+          }
+        ],
+        [
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          }
+        ],
+        [
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          }
+        ],
+        [
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 2,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 1,
+            "color": "#00ff00"
+          },
+          {
+            "tileType": 1,
+            "color": "#00ff00"
+          },
+          {
+            "tileType": 1,
+            "color": "#00ff00"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          }
+        ],
+        [
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          }
+        ],
+        [
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          }
+        ]
+      ],
+      "attacked": [
+        [
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          }
+        ],
+        [
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          }
+        ],
+        [
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          }
+        ],
+        [
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          }
+        ],
+        [
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          }
+        ],
+        [
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          }
+        ],
+        [
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          }
+        ],
+        [
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          }
+        ],
+        [
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          }
+        ],
+        [
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          }
+        ],
+        [
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          }
+        ],
+        [
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          }
+        ],
+        [
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          }
+        ],
+        [
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          }
+        ],
+        [
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          }
+        ]
+      ]
+    },
+    {
+      "is_alive": true,
+      "ships": [
+        {
+          "type": 2,
+          "initial_position": [
+            2,
+            2
+          ],
+          "orientation": "horizontal"
+        },
+        {
+          "type": 3,
+          "initial_position": [
+            1,
+            6
+          ],
+          "orientation": "vertical"
+        },
+        {
+          "type": 3,
+          "initial_position": [
+            12,
+            0
+          ],
+          "orientation": "horizontal"
+        },
+        {
+          "type": 4,
+          "initial_position": [
+            14,
+            6
+          ],
+          "orientation": "vertical"
+        },
+        {
+          "type": 5,
+          "initial_position": [
+            4,
+            5
+          ],
+          "orientation": "horizontal"
+        }
+      ],
+      "board": [
+        [
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 2,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 2,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 1,
+            "color": "#0000ff"
+          }
+        ],
+        [
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          }
+        ],
+        [
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 1,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 1,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          }
+        ],
+        [
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          }
+        ],
+        [
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          }
+        ],
+        [
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 1,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 1,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 2,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 1,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 1,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          }
+        ],
+        [
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 1,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ffffff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 2,
+            "color": "#c0c0c0"
+          }
+        ],
+        [
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 1,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 2,
+            "color": "#c0c0c0"
+          }
+        ],
+        [
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 2,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 2,
+            "color": "#c0c0c0"
+          }
+        ],
+        [
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 4,
+            "color": "#ffffff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 2,
+            "color": "#c0c0c0"
+          }
+        ],
+        [
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          }
+        ],
+        [
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          }
+        ],
+        [
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          }
+        ],
+        [
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          }
+        ],
+        [
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          }
+        ]
+      ],
+      "attacked": [
+        [
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          }
+        ],
+        [
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          }
+        ],
+        [
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          }
+        ],
+        [
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          }
+        ],
+        [
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          }
+        ],
+        [
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          }
+        ],
+        [
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          }
+        ],
+        [
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          }
+        ],
+        [
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          }
+        ],
+        [
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          }
+        ],
+        [
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          }
+        ],
+        [
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          }
+        ],
+        [
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          }
+        ],
+        [
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          }
+        ],
+        [
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          }
+        ]
+      ]
+    },
+    {
+      "is_alive": true,
+      "ships": [
+        {
+          "type": 2,
+          "initial_position": [
+            2,
+            7
+          ],
+          "orientation": "vertical"
+        },
+        {
+          "type": 3,
+          "initial_position": [
+            2,
+            11
+          ],
+          "orientation": "horizontal"
+        },
+        {
+          "type": 3,
+          "initial_position": [
+            11,
+            14
+          ],
+          "orientation": "horizontal"
+        },
+        {
+          "type": 4,
+          "initial_position": [
+            11,
+            7
+          ],
+          "orientation": "horizontal"
+        },
+        {
+          "type": 5,
+          "initial_position": [
+            8,
+            5
+          ],
+          "orientation": "vertical"
+        }
+      ],
+      "board": [
+        [
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          }
+        ],
+        [
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          }
+        ],
+        [
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          }
+        ],
+        [
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          }
+        ],
+        [
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          }
+        ],
+        [
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 2,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          }
+        ],
+        [
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ffffff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 2,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          }
+        ],
+        [
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 1,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 2,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 1,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 1,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 1,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 2,
+            "color": "#ff0000"
+          }
+        ],
+        [
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 1,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 2,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          }
+        ],
+        [
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 2,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ffffff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          }
+        ],
+        [
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          }
+        ],
+        [
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 2,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 2,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 2,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          }
+        ],
+        [
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          }
+        ],
+        [
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          }
+        ],
+        [
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 1,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 1,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 2,
+            "color": "#ff00ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          }
+        ]
+      ],
+      "attacked": [
+        [
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          }
+        ],
+        [
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          }
+        ],
+        [
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          }
+        ],
+        [
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          }
+        ],
+        [
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          }
+        ],
+        [
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          }
+        ],
+        [
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          }
+        ],
+        [
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          }
+        ],
+        [
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": true
+          }
+        ],
+        [
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": true
+          }
+        ],
+        [
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": true
+          }
+        ],
+        [
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          }
+        ],
+        [
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          }
+        ],
+        [
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          }
+        ],
+        [
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          }
+        ]
+      ]
+    },
+    {
+      "is_alive": true,
+      "ships": [
+        {
+          "type": 2,
+          "initial_position": [
+            5,
+            4
+          ],
+          "orientation": "horizontal"
+        },
+        {
+          "type": 3,
+          "initial_position": [
+            9,
+            3
+          ],
+          "orientation": "horizontal"
+        },
+        {
+          "type": 3,
+          "initial_position": [
+            0,
+            6
+          ],
+          "orientation": "vertical"
+        },
+        {
+          "type": 4,
+          "initial_position": [
+            7,
+            10
+          ],
+          "orientation": "vertical"
+        },
+        {
+          "type": 5,
+          "initial_position": [
+            9,
+            10
+          ],
+          "orientation": "horizontal"
+        }
+      ],
+      "board": [
+        [
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          }
+        ],
+        [
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          }
+        ],
+        [
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          }
+        ],
+        [
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 1,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 1,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 2,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          }
+        ],
+        [
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 1,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 2,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          }
+        ],
+        [
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#ffffff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          }
+        ],
+        [
+          {
+            "tileType": 2,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ffffff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          }
+        ],
+        [
+          {
+            "tileType": 2,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          }
+        ],
+        [
+          {
+            "tileType": 2,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          }
+        ],
+        [
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 4,
+            "color": "#ffffff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          }
+        ],
+        [
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 2,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 1,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 1,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 1,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 1,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 2,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          }
+        ],
+        [
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 2,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          }
+        ],
+        [
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 2,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          }
+        ],
+        [
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 2,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          }
+        ],
+        [
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#c0c0c0"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 0,
+            "color": "#0000ff"
+          },
+          {
+            "tileType": 4,
+            "color": "#ff0000"
+          }
+        ]
+      ],
+      "attacked": [
+        [
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          }
+        ],
+        [
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          }
+        ],
+        [
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          }
+        ],
+        [
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          }
+        ],
+        [
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          }
+        ],
+        [
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": true
+          }
+        ],
+        [
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          }
+        ],
+        [
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          }
+        ],
+        [
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          }
+        ],
+        [
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          }
+        ],
+        [
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          }
+        ],
+        [
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          }
+        ],
+        [
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          }
+        ],
+        [
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          }
+        ],
+        [
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": false
+          },
+          {
+            "isAttack": true
+          },
+          {
+            "isAttack": false
+          }
+        ]
+      ]
+    }
+  ]
+}
